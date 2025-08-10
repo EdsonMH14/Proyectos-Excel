@@ -1,12 +1,10 @@
 # Proyectos-Excel
 En este repositorio encontraras todos los proyectos que he realizado en Excel.
 
-Ingeniero en Sistemas Computacionales | Especialidad en Ciencia de Datos
+ ### Ingeniero en Sistemas Computacionales | Especialidad en Ciencia de Datos
+ ## Edson Martinez Hernández
 
-Edson Martinez Hernández
 
-Contacto
-
-📫 edsommartinezhern14@gmail.com
-
-🔗 LinkedIn
+## Contacto
+📫 edsommartinezhern14@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/edson-mtz-hdz/)
