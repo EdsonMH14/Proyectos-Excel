@@ -1,8 +1,8 @@
-📊 #Proyecto de Análisis de Ventas y Comisiones en Excel
-📋 ##Descripción del Proyecto
+📊 Proyecto de Análisis de Ventas y Comisiones en Excel
+📋 Descripción del Proyecto
 Este proyecto consiste en un libro de Excel avanzado diseñado para gestionar y analizar datos de ventas, calculando automáticamente comisiones y totales por vendedor. Incluye herramientas de segmentación y validación de datos para garantizar la integridad y facilidad de uso.
 
-⚙️ ##Funcionalidades Principales Implementadas
+⚙️ Funcionalidades Principales Implementadas
 🔄 Transformación de Datos
 Conversión de datos sin relación en una tabla estructurada de Excel
 
@@ -40,7 +40,7 @@ Mejora en legibilidad y mantenimiento del libro
 
 Fórmulas más comprensibles y menos propensas a errores
 
-🛠️ ##Tecnologías Utilizadas
+🛠️ Tecnologías Utilizadas
 Tecnología	Aplicación
 Microsoft Excel	Plataforma principal
 Tablas Dinámicas	Análisis de datos
@@ -49,7 +49,7 @@ Validación de Datos	Control de entradas
 Fórmulas Avanzadas	Cálculos automáticos
 
 
-🚀 ##Cómo Usar el Proyecto
+🚀 Cómo Usar el Proyecto
 Abrir el archivo en Microsoft Excel
 
 Utilizar la segmentación de datos para filtrar por vendedor
@@ -60,7 +60,7 @@ Verificar las fechas ingresadas cumplan con el formato válido
 
 Analizar los resultados mediante las tablas y cálculos implementados
 
-📝 ##Notas Adicionales
+📝 Notas Adicionales
 ✅ Desarrollado con mejores prácticas en manejo de datos en Excel
 
 ✅ Optimizado para proceso de análisis de ventas y comisiones
